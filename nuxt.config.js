@@ -43,6 +43,9 @@ module.exports = {
    */
   modules: [],
 
+  //public path woohoo
+  publicPath:'/portfolio/'
+
   /*
    ** Build configuration
    */
