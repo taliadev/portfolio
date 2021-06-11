@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio for my various projects.",
+  "author": "Talia Devanadero",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "deploy": "node scripts/gh-pages-deploy.js"
+  },
+  "dependencies": {
+    "ajv": "^6.5.3",
+    "nuxt": "^1.4.5"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1",
+    "execa": "latest"
+  }
+}

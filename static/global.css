@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body {
+  font-family: Tajawal, Helvetica, Arial, sans-serif;
+  letter-spacing: 0.05em;
+  line-height: 1.1em;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
+
+.link {
+  font-size: 0.85em;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
