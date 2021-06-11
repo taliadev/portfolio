@@ -1,12 +1,5 @@
 const pkg = require('./package');
 
-export default {
-  target: 'static', //default server
-  router: {
-    base: '/portfolio/'
-  }
-}
-
 module.exports = {
   mode: 'universal',
 
@@ -61,4 +54,11 @@ module.exports = {
     extend(config, ctx) {}
   },
 
+};
+
+export default {
+  target: 'static', //default server
+  router: {
+    base: '/portfolio/'
+  }
 };
