@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "cross-env": "^5.0.1",
-    "execa": "latest"
+    "execa": "latest",
+    "push-dir": "^0.4.1"
   }
 }
