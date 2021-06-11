@@ -9,6 +9,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
   "dependencies": {
@@ -17,7 +18,6 @@
   },
   "devDependencies": {
     "cross-env": "^5.0.1",
-    "execa": "latest",
-    "push-dir": "^0.4.1"
+    "execa": "latest"
   }
 }
