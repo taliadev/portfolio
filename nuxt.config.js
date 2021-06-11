@@ -1,5 +1,12 @@
 const pkg = require('./package');
 
+export default {
+  target: 'static', //default server
+  router: {
+    base: '/portfolio/'
+  }
+}
+
 module.exports = {
   mode: 'universal',
 
@@ -43,8 +50,6 @@ module.exports = {
    */
   modules: [],
 
-  //public path woohoo
-  publicPath:'/portfolio/',
 
   /*
    ** Build configuration
