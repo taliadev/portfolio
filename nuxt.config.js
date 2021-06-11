@@ -3,6 +3,11 @@ const pkg = require('./package');
 module.exports = {
   mode: 'universal',
 
+  target: 'static',
+  router: {
+    base: '/portfolio/'
+  },
+
   /*
    ** Headers of the page
    */
@@ -56,9 +61,3 @@ module.exports = {
 
 };
 
-export default {
-  target: 'static', //default server
-  router: {
-    base: '/portfolio/'
-  }
-};
