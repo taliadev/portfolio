@@ -17,7 +17,7 @@
     <a href="https://www.github.com/taliadev">
       <p class="link">GitHub</p>
     </a>
-    <a href="assets/headblack.png">
+    <a href="~/assets/talia_devanadero.pdf">
       <p class="link">Resume</p>
     </a>
     <div style="height: 150px"></div>
