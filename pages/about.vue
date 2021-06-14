@@ -1,6 +1,6 @@
 <template>
 <div class="menu-container">
-  <p><span class="emphasised">Talia Devanadero</span> (she/they) lives in liminal spaces.</p>
+  <p>Hello, </p>
   <br/>
   <p>this webpage does things that i don't want to type out right now lol</p>
   <p>kadsfjksaldfkjhsadlkf</p>
@@ -22,7 +22,7 @@ export default {
   display: inline-block;
   width: calc(100% - 130px);
   max-width: 700px;
-  columns: 250px 2;
+  columns: 300px 1;
   vertical-align: top;
   padding: 25px 0 25px 50px;
   padding-left: 50px;
