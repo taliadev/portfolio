@@ -7,9 +7,9 @@
       <p class="link">About Me</p>
     </nuxt-link>
     <div style="height: 20px"></div>
-    <a href="https://liiexplorations.blogspot.com/">
-      <p class="link">Makerspace Blog</p>
-    </a>
+    <nuxt-link to="/makerspace">
+      <p class="link">Makerspace</p>
+    </nuxt-link>
     <a href="https://taliadev.github.io/student-loan/student">
       <p class="link">Student Loans</p>
     </a>
