@@ -1,6 +1,7 @@
 <template>
 <div class="menu-container">
-  <p><span class="emphasised">Talia Devanadero</span> (she/they) lives in liminal spaces.</p>
+  <p><span class="emphasised">Talia Devanadero</span> (she/they) lives in liminal spaces. Her interests include electronic literature,
+  nonexistent maps, data visualization, fandom meta, and someday conducting autoethnography on her 7,000+ bookmarks.</p>
   <br/>
   <p>this webpage does things that i don't want to type out right now lol</p>
   <p>kadsfjksaldfkjhsadlkf</p>
