@@ -1,12 +1,12 @@
 <template>
 <div class="menu-container">
-  <p><span class="emphasised">Talia Devanadero</span> (she/they) lives in liminal spaces. Her interests include electronic literature,
-  nonexistent maps, data visualization, fandom meta, and someday conducting autoethnography on her 7,000+ bookmarks.</p>
+  <p><span class="emphasised">Talia Devanadero</span> (she/they) lives in liminal spaces.</p>
   <br/>
-  <p>this webpage does things that i don't want to type out right now lol</p>
-  <p>kadsfjksaldfkjhsadlkf</p>
+  <p> Their interests include electronic literature,
+  conference moderation, data visualization, fandom meta, social justice, and someday wrangling their 7,000+ bookmarks.</p>
+  <p>Projects featured here include: a multimedia project centered around American student loan data, a voter education web app, and a bubbly makerspace blog from my sophomore year of high school.</p>
   <br/>
-  <p>dasdfksad</p>
+
 
   
 </div>
