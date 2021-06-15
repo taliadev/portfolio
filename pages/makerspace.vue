@@ -1,18 +1,18 @@
 <template>
 <div class="menu-container">
   <p>What do you do when faced with a pile of old laptops with no power cords?
-  The answer, it turns out, is simple: loot them for their displays and make a “<a href="https://liiexplorations.blogspot.com/2017/09/my-new-project-repurposing-display.html">magic mirror</a>”.</p>
+  The answer, it turns out, is simple: loot them for their displays and make a “<a href="https://liiexplorations.blogspot.com/2017/09/my-new-project-repurposing-display.html" target="_blank">magic mirror</a>”.</p>
   </br>
   <p>I spent the first semester of my sophomore year of high school in a makerspace class doing just that—meticulously disassembling laptops, 3D printing frame brackets, cutting down a one-way mirror, and programming a Raspberry Pi.
   The goal: to create a mirror that would show not only my reflection but also the time, weather, and upcoming Google Calendar events.</p>
   </br>
   <p>Unfortunately, I couldn't just work on one project the entire semester. Especially not while waiting for parts to ship in from China. So,
-  I spent my free time <a href="https://liiexplorations.blogspot.com/2017/11/cross-stitch-pillow.html">embroidering</a>, making <a href="https://liiexplorations.blogspot.com/2017/10/origami-sonobe-lamp.html">origami lamps</a>, and <a href="https://liiexplorations.blogspot.com/2017/12/sans-comic-20.html">defacing the Internet</a>:</p>
+  I spent my free time <a href="https://liiexplorations.blogspot.com/2017/11/cross-stitch-pillow.html" target="_blank">embroidering</a>, making <a href="https://liiexplorations.blogspot.com/2017/10/origami-sonobe-lamp.html" target="_blank">origami lamps</a>, and <a href="https://liiexplorations.blogspot.com/2017/12/sans-comic-20.html" target="_blank">defacing the Internet</a>:</p>
   </br>
-  <img src="~/assets/sans-comic.gif" alt="Animation of rainbow text and shaking" title="Wikipedia, defaced."/>
+  <img src="~/assets/sans-comic.gif" alt="Animation of rainbow text and shaking on Wikipedia page" title="Wikipedia, defaced."/>
   </br>
   </br>
-  <p>All of these projects are playfully framed with the design thinking process on my <a href="https://liiexplorations.blogspot.com/">blog</a>.</p>
+  <p>All of these projects are playfully framed with the design thinking process on my <a href="https://liiexplorations.blogspot.com/" target="_blank">blog</a>.</p>
   
 
 

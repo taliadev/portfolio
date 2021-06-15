@@ -23,7 +23,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: pkg.description }
     ],
     link: [
-      { rel: 'icon', type: 'image/png', href: '/favicon.png' },
+      { rel: 'icon', type: 'image/png', href: '/portfolio/favicon.png' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Tajawal:400,600,800' }
     ]
   },
