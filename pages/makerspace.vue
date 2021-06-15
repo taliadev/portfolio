@@ -3,8 +3,7 @@
   <p>What do you do when faced with a pile of old laptops with no power cords?
   The answer, it turns out, is simple: loot them for their displays and make a “<a href="https://liiexplorations.blogspot.com/2017/09/my-new-project-repurposing-display.html">magic mirror</a>”.</p>
   </br>
-  <p>
-  I spent the first semester of my sophomore year of high school in a makerspace class doing just that—meticulously disassembling laptops, 3D printing frame brackets, cutting down a one-way mirror, and programming a Raspberry Pi.
+  <p>I spent the first semester of my sophomore year of high school in a makerspace class doing just that—meticulously disassembling laptops, 3D printing frame brackets, cutting down a one-way mirror, and programming a Raspberry Pi.
   The goal: to create a mirror that would show not only my reflection but also the time, weather, and upcoming Google Calendar events.</p>
   </br>
   <p>Unfortunately, I couldn't just work on one project the entire semester. Especially not while waiting for parts to ship in from China. So,
