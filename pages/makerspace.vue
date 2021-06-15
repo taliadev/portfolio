@@ -8,7 +8,7 @@
   The goal: to create a mirror that would show not only my reflection but also the time, weather, and upcoming Google Calendar events.</p>
   </br>
   <p>Unfortunately, I couldn't just work on one project the entire semester. Especially not while waiting for parts to ship in from China. So,
-  I spent my free time <a href="https://liiexplorations.blogspot.com/2017/11/cross-stitch-pillow.html">embroidering</a>, making <a href="https://liiexplorations.blogspot.com/2017/10/origami-sonobe-lamp.html>origami lamps</a>, and <a href="https://liiexplorations.blogspot.com/2017/12/sans-comic-20.html">defacing the Internet:</a></p>
+  I spent my free time <a href="https://liiexplorations.blogspot.com/2017/11/cross-stitch-pillow.html">embroidering</a>, making <a href="https://liiexplorations.blogspot.com/2017/10/origami-sonobe-lamp.html">origami lamps</a>, and <a href="https://liiexplorations.blogspot.com/2017/12/sans-comic-20.html">defacing the Internet:</a></p>
   </br>
   <img src="~/assets/sans-comic.gif" alt="Animation of rainbow text and shaking" title="Wikipedia, defaced."/>
   </br>
@@ -43,7 +43,7 @@ export default {
   font-weight: 700;
 }
 
-.a {
+a {
   text-decoration: underline;
 }
 
