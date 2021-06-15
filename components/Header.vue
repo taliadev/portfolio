@@ -1,7 +1,7 @@
 <template>
 <div class="header-container">
   <div class="logo">
-      <img src="~/assets/headblack.png"/>
+      <img src="~/assets/headblack.png" alt="Generated Circle Logo"/>
   </div>
   <div class="header-text">Talia Devanadero</div>
 </div>

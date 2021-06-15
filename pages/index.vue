@@ -2,8 +2,8 @@
 <div class="menu-container">
   <p><span class="emphasised">Talia Devanadero</span> (she/they) lives in liminal spaces.</p>
   <br/>
-  <p> Their interests include e-literature,
-  conference moderation, data visualization, fandom meta, social justice, and someday wrangling their 7,000+ bookmarks.</p>
+  <p> Their interests include e-lit,
+  conference moderation, data visualization, fandom meta, social justice, and wrangling their 7,000+ bookmarks.</p>
   <br/>
   <p>Projects featured here include: a multimedia project centered around American student loan data, a voter education web app, and a bubbly makerspace blog from my sophomore year of high school.</p>
 
