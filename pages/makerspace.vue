@@ -12,7 +12,7 @@
   <img src="~/assets/sans-comic.gif" alt="Animation of rainbow text and shaking on Wikipedia page" title="Wikipedia, defaced."/>
   </br>
   </br>
-  <p>All of these projects are playfully framed with the design thinking process on my <a href="https://liiexplorations.blogspot.com/" target="_blank">blog</a>.</p>
+  <p>All of these projects are playfully framed within the design thinking process on my <a href="https://liiexplorations.blogspot.com/" target="_blank">blog</a>.</p>
   
 
 
