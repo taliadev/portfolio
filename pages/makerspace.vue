@@ -13,7 +13,7 @@
   <img src="~/assets/sans-comic.gif" alt="Animation of rainbow text and shaking" title="Wikipedia, defaced."/>
   </br>
   </br>
-  <p>All of these projects are playfully framed with the design thinking process on my <span class="emphasised"><a href="https://liiexplorations.blogspot.com/">blog</a></span>.</p>
+  <p>All of these projects are playfully framed with the design thinking process on my <a href="https://liiexplorations.blogspot.com/">blog</a>.</p>
   
 
 
@@ -47,6 +47,7 @@ export default {
 
 a {
   text-decoration: underline;
+  font-weight: 700;
 }
 
 @media (max-width: 500px) {
