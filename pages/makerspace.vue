@@ -47,7 +47,7 @@ export default {
 
 a {
   text-decoration: underline;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 @media (max-width: 500px) {
