@@ -1,15 +1,19 @@
 <template>
 <div class="menu-container">
   <p>What do you do when faced with a pile of old laptops with no power cords?
-  The answer, it turns out, is simple: loot them for their displays and make a “magic mirror”.
+  The answer, it turns out, is simple: loot them for their displays and make a “magic mirror”.</p>
+  </br>
+  <p>
   I spent the first semester of my high school sophomore year in a makerspace class doing just that—meticulously disassembling laptops, 3D printing frame brackets, cutting down a one-way mirror, and programming a Raspberry Pi.
   The goal: to create a mirror that would show not only my reflection but also the time, weather, and upcoming Google Calendar events.</p>
   </br>
   <p>Unfortunately, I couldn't just work on one project the entire semester. Especially not while waiting for parts to ship in from China. So,
-  I spent my free time embroidering, making origami lamps, and making the Internet nigh-illegible.</p>
+  I spent my free time <a href="https://liiexplorations.blogspot.com/2017/11/cross-stitch-pillow.html">embroidering</a>, making <a href="https://liiexplorations.blogspot.com/2017/10/origami-sonobe-lamp.html>origami lamps</a>, and <a href="https://liiexplorations.blogspot.com/2017/12/sans-comic-20.html">defacing the Internet:</a></p>
   </br>
-  <p>All of these projects are wittily framed with the design thinking process on my <span class="emphasised">blog</span>.</p>
-
+  <img src="~/assets/sans-comic.gif" alt="Animation of rainbow text and shaking" title="Wikipedia, defaced."/>
+  </br>
+  <p>All of these projects are playfully framed with the design thinking process on my <span class="emphasised">blog</span>.</p>
+  
 
 
   
@@ -37,6 +41,10 @@ export default {
 
 .emphasised {
   font-weight: 700;
+}
+
+.a {
+  text-decoration: underline;
 }
 
 @media (max-width: 500px) {
