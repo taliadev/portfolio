@@ -1,3 +1,3 @@
 # portfolio
 
-> A portfolio for my various projects.
+> A portfolio for Talia Devanadero's various projects.
