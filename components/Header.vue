@@ -37,7 +37,7 @@
   width: 100%;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   .header-container {
     left: 25px;
   }

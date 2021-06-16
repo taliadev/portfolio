@@ -9,7 +9,7 @@
   <p>Unfortunately, I couldn't just work on one project the entire semester. Especially not while waiting for parts to ship in from China. So,
   I spent my free time <a href="https://liiexplorations.blogspot.com/2017/11/cross-stitch-pillow.html" target="_blank">embroidering</a>, making <a href="https://liiexplorations.blogspot.com/2017/10/origami-sonobe-lamp.html" target="_blank">origami lamps</a>, and <a href="https://liiexplorations.blogspot.com/2017/12/sans-comic-20.html" target="_blank">defacing the Internet</a>:</p>
   </br>
-  <img src="~/assets/sans-comic.gif" alt="Animation of rainbow text and shaking on Wikipedia page" title="Wikipedia, defaced."/>
+  <img class='wikipedia-image' src="~/assets/sans-comic.gif" alt="Animation of rainbow text and shaking on Wikipedia page" title="Wikipedia, defaced."/>
   </br>
   </br>
   <p>All of these projects are playfully framed within the design thinking process on my <a href="https://liiexplorations.blogspot.com/" target="_blank">blog</a>.</p>
@@ -37,6 +37,10 @@ export default {
   padding-left: 50px;
   border-left: 1px solid #111;
   margin-left: 50px;
+}
+
+.wikipedia-image {
+  width: 100%;
 }
 
 .emphasised {
