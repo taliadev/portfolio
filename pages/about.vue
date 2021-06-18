@@ -1,14 +1,6 @@
 <template>
 <div class="menu-container">
-  <p>Hello, </p>
-  <br/>
-  <p>this webpage does things that i don't want to type out right now lol</p>
-  <p>kadsfjksaldfkjhsadlkf</p>
-
-  :
-
-  <br/>
-  <p>dasdfksad</p>
+  <p>TODO: finish this about page</p>
 
   
 </div>
