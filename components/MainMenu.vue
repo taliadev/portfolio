@@ -13,6 +13,9 @@
     <a href="https://taliadev.github.io/student-loan/student">
       <p class="link">Student Loans</p>
     </a>
+    <nuxt-link to="/voter">
+      <p class="link">Voter District App</p>
+    </nuxt-link>
     <div style="height: 20px"></div>
     <a href="https://www.github.com/taliadev">
       <p class="link">GitHub</p>

@@ -1,11 +1,24 @@
 <template>
 <div class="menu-container">
-  <p>Hello, </p>
+  <p>Here is some filler text for the first area. This is a section about the ArcGIS Project.</p>
   <br/>
-  <p>this webpage does things that i don't want to type out right now lol</p>
-  <p>kadsfjksaldfkjhsadlkf</p>
+  <p>Here is the record of tasks</p>
   <br/>
-  <p>dasdfksad</p>
+  <div>
+    <iframe src='/portfolio/talia_devanadero.pdf' class="pdf-viewer">
+      <p>This browser does not support PDF!</p>
+    </iframe>
+  </div>
+  <br/>
+  <p>Here is a demonstration of the working program.</p>
+  <br/>
+  <iframe
+    class='video-player'
+    src="https://www.youtube-nocookie.com/embed/Y2j4iLSlKQU"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen/>
 
   
 </div>
@@ -28,6 +41,16 @@ export default {
   padding-left: 50px;
   border-left: 1px solid #111;
   margin-left: 50px;
+}
+
+.pdf-viewer {
+  width: 100%;
+  height: 25vw;
+}
+
+.video-player {
+  width: 100%;
+  height: 20vw;
 }
 
 .emphasised {
