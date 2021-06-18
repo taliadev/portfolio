@@ -4,11 +4,12 @@
   "for many americans transitioning into adulthood, college was the golden ticket to a well-paying job, and student loans were merely the price of admission. today, over half of all american students have to go into some form of debt, including loans, to fund their education. the average debt burden, as of 2020? $39,351. but what does that cost look like on a national scale? and what would be different, if the government just funded postsecondary education directly?" 
 <span>from the <a href="https://taliadev.github.io/student-loan/student/visual#introduction" target="_blank">introduction to the visualization</a> of <a href="https://taliadev.github.io/student-loan/student" target="_blank">student loan debt (as modern triptych)</a></span>
 </blockquote>
+<br />
   <p>In the spring of 2021, I took a critical media class by <a href="https://atec.utdallas.edu/content/knight-kim/" target="_blank">Dr. Kim Knight</a> called <a href="
 https://catalog.utdallas.edu/2020/undergraduate/courses/atcm4326" target="_blank">Mediated Textuality</a>.
 Over the course of the semester, we discussed readings on narrativity and the relationships between different types of media, while simultaneously putting theory into action by creating media objects within the context of a chosen dataset.</p>
 <br />
-<p>My portfolio pulled from the <a href="https://studentaid.gov/data-center/student/portfolio" target="_blank">Federal Student Loan database</a> and consisted of a data visualization, an interactive fiction story written in inklewriter and ported to ink, and mixed media analog art.</p>
+<p>My portfolio pulled from the <a href="https://studentaid.gov/data-center/student/portfolio" target="_blank">Federal Student Loan database</a> and consisted of a data visualization, an interactive fiction story written in inklewriter, and mixed media analog art.</p>
 <br />
 <p>After I finished the final drafts, I decided to hand-code a <a href="https://taliadev.github.io/student-loan/student/" target="_blank">website</a> so I could refine the framing of each object and juxtapose the narrative angles. I wanted to highlight the dimensions of student loan debt by not only showcasing quantitative trends, but also by placing the reader in a targeted second-person narrative and converting monetary cost into its equivalent in blood, sweat, tears, and time.
 </p>
