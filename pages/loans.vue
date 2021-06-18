@@ -1,8 +1,8 @@
 <template>
 <div class="menu-container">
 <blockquote class="otro-blockquote">
-  for many americans transitioning into adulthood, college was the golden ticket to a well-paying job, and student loans were merely the price of admission. today, over halfof all american students have to go into some form of debt, including loans, to fund their education. the average debt burden, as of 2020? $39,351. but what does that cost look like on a national scale? and what would be different, if the government just funded postsecondary education directly? 
-<span>from the visual introduction to "student loan debt (as modern triptych)"</span>
+  for many americans transitioning into adulthood, college was the golden ticket to a well-paying job, and student loans were merely the price of admission. today, over half of all american students have to go into some form of debt, including loans, to fund their education. the average debt burden, as of 2020? $39,351. but what does that cost look like on a national scale? and what would be different, if the government just funded postsecondary education directly? 
+<span>from the <a href="https://taliadev.github.io/student-loan/student/visual#introduction" target="_blank">introduction to the visualization</a> of "student loan debt (as modern triptych)"</span>
 </blockquote>
   <p>in the spring of 2021, i took a critical media (?) class by Dr. Kim Knight called mediated textuality (gonna link to the utd description)
 https://catalog.utdallas.edu/2020/undergraduate/courses/atcm4326
@@ -69,30 +69,19 @@ a {
   }
 }
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
 .otro-blockquote{
-  font-size: 1.4em;
-  width:60%;
-  margin:50px auto;
-  font-family:Open Sans;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 30px 1.2em 75px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;
+  font-size: 1em;
+  width: 100%;
+  margin: 10px auto;
+  font-style: italic;
+  color: #555;
+  padding: 1.2em 30px 1.2em 25px;
+  border-left: 8px solid #858585;
+  line-height: 1.25;
+  background: #ededed;
 }
 
-.otro-blockquote::before{
-  font-family:Arial;
-  content: "\201C";
-  color:#78C0A8;
-  font-size:4em;
-  position: absolute;
-  left: 10px;
-  top:-10px;
-}
+
 
 .otro-blockquote::after{
   content: '';
@@ -102,7 +91,6 @@ a {
   display:block;
   color:#333333;
   font-style: normal;
-  font-weight: bold;
   margin-top:1em;
 }
 
