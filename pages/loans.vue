@@ -1,29 +1,15 @@
 <template>
 <div class="menu-container">
 <blockquote class="otro-blockquote">
-  for many americans transitioning into adulthood, college was the golden ticket to a well-paying job, and student loans were merely the price of admission. today, over half of all american students have to go into some form of debt, including loans, to fund their education. the average debt burden, as of 2020? $39,351. but what does that cost look like on a national scale? and what would be different, if the government just funded postsecondary education directly? 
-<span>from the <a href="https://taliadev.github.io/student-loan/student/visual#introduction" target="_blank">introduction to the visualization</a> of "student loan debt (as modern triptych)"</span>
+  "for many americans transitioning into adulthood, college was the golden ticket to a well-paying job, and student loans were merely the price of admission. today, over half of all american students have to go into some form of debt, including loans, to fund their education. the average debt burden, as of 2020? $39,351. but what does that cost look like on a national scale? and what would be different, if the government just funded postsecondary education directly?" 
+<span>from the <a href="https://taliadev.github.io/student-loan/student/visual#introduction" target="_blank">introduction to the visualization</a> of <a href="https://taliadev.github.io/student-loan/student" target="_blank">"student loan debt (as modern triptych)"</a></span>
 </blockquote>
-  <p>in the spring of 2021, i took a critical media (?) class by Dr. Kim Knight called mediated textuality (gonna link to the utd description)
-https://catalog.utdallas.edu/2020/undergraduate/courses/atcm4326
-this class explored the relationships between different types of media and narrativity, and we were tasked with (executing) these concepts within the context of a chosen dataset. i chose to pull from the fafsa student loan database (link)
-our final project involved a short paper and a portfolio of three different media objects; for me, this consisted of a data visualization, an interactive fiction story written in inklewriter and ported to ink, and analog objects
-after i finished the final drafts, i decided to frame them all in a website so i could juxtapose the tonse of them all together
-this of course, was a lot of work, but hey, i get to post it now and it looks pretty and i did all the website design by hand, no frameworks
-the creation was bittersweet
-there was a lot drawn on my own and other people's experiences
-though i created it for a specific class, my end audience that i had in mind was someone who didn't understand what the monetary and energy and labor costs of college really meant
-someone who might see the sticker tag and need a little more contextualization
-a high school student heading out of state, blissfully unaware of the gravity of the decisions they are tasked with making, or maybe a parent pushing their child into a 4 year university, unknowingly caught in the times where a summer of work could pay for a semester, a year of college (when today a year's min wages might not even pay for a single semester)
-my goal was for the three different media objects to highlight different things about a single dataset - conversion, narrative, exponential massive growth
-look at trends and put yourself the reader in their shoes and convert the costs of something that society demands into blood sweat tears hunger and time
-and then i also wanted to leverage the digital format
-which is why i put so much work into framing for the website
-it's solemn and bittersweet but it's also a nod of respect to all of those who are soldiering through in spite of the near dystopian state of things</p>
-
-  
-
-
+  <p>In the spring of 2021, I took a critical media class by <a href="https://atec.utdallas.edu/content/knight-kim/" target="_blank">Dr. Kim Knight</a> called <a href="
+https://catalog.utdallas.edu/2020/undergraduate/courses/atcm4326" target="_blank">Mediated Textuality</a>.
+Over the course of the semester, we discussed readings on narrativity and the relationships between different types of media, while simultaneously putting theory into action by creating media objects within the context of a chosen dataset. My portfolio pulled from the <a href="https://studentaid.gov/data-center/student/portfolio" target="_blank>Federal Student Loan database</a> and consisted of a data visualization, an interactive fiction story written in inklewriter and ported to ink, and mixed media analog art.</p>
+<p>After I finished the final drafts, I decided to hand-code a <a href="https://taliadev.github.io/student-loan/student/" target="_blank">website</a> so I could refine the framing of each object and juxtapose the narrative angles. I wanted to highlight the dimensions of student loan debt by not only showcasing quantitative trends, but also by placing the reader in a targeted second-person narrative and converting monetary cost into its equivalent in blood, sweat, tears, and time.
+</p>
+<p>For me, the portfolio and creation process were both a little bittersweet; I drew a lot of inspiration from real life experiences and the stories I had picked up from my peers. Although this was a class project, the audience I had in mind was a viewer who didn't come in understanding what the monetary cost of college really meant—someone who might see the sticker tag and need a little more contextualization. Like a high school student heading out of state, blissfully unaware of the gravity of decisions they were pressured into making—or maybe a parent pushing their child into a 4-year university, mindset caught in the times where a summer of work could pay for a semester, or even a year of college. (Today, a year's worth of minimum wages might not even pay for five months.)</p>
   
 </div>
 </template>
