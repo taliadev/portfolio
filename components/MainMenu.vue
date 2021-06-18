@@ -11,7 +11,7 @@
       <p class="link">Makerspace</p>
     </nuxt-link>
     <nuxt-link to="/loans">
-      <p class="link">Student Loans</p>
+      <p class="link">Student Loan Debt (As Modern Triptych)</p>
     </nuxt-link>
     <nuxt-link to="/voter">
       <p class="link">Voter District App</p>
