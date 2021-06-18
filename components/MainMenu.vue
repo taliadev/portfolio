@@ -10,9 +10,9 @@
     <nuxt-link to="/makerspace">
       <p class="link">Makerspace</p>
     </nuxt-link>
-    <a href="https://taliadev.github.io/student-loan/student">
+    <nuxt-link to="/loans">
       <p class="link">Student Loans</p>
-    </a>
+    </nuxt-link>
     <nuxt-link to="/voter">
       <p class="link">Voter District App</p>
     </nuxt-link>
